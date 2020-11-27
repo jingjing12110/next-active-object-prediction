@@ -12,8 +12,8 @@ pip install -r requirements.txt
 
 ## Download data annotation
 
-- [ADL Annotation]()
-- [EPIC Annotation]()
+- [ADL Annotation](https://mega.nz/folder/7EoWRB4L#cJvx_sPShW8YXFBNfK9TsQ)
+- [EPIC Annotation](https://mega.nz/folder/zRwExbIT#UDD0OztUoxc95yWdOgad4g)
 
 ## Training and Evaluation
 
