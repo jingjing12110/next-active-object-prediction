@@ -27,8 +27,7 @@ python test.py --dataset EPIC --exp_name epic/unet_resnet_hand_att  --bs 12
 To train/evaluate the model(s) on ADL dataset, run this command:
 
 ```train
-python train.py --dataset ADL --exp_name adl/unet_resnet_hand_att --lr 0.0000002
- --bs 12
+python train.py --dataset ADL --exp_name adl/unet_resnet_hand_att --lr 0.0000002 --bs 12
 python test.py --dataset ADL --exp_name adl/unet_resnet_hand_att  --bs 12
 ```
 
